@@ -8,7 +8,7 @@ image:
   repository: avintyagi/main
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10358640042"
+  tag: "10372583882"
 
 ingress:
   enabled: false
